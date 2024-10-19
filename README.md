@@ -4,7 +4,7 @@
 This project was undertaken as part of the HVA24 Mini Hackathon 2.0. The aim is to explore India's electric vehicle (EV) market using a dataset from Kaggle. The analysis was carried out using a Kaggle notebook with Pandas for data processing and analysis. Power BI was used for visualizing key insights.
 
 ## Dataset
-The dataset used for this project includes:
+The dataset used for this project includes [kaggle link] (https://www.kaggle.com/datasets/srinrealyf/india-ev-market-data):
 1. **EV Maker by Place**: Data on EV manufacturers and their locations.
 2. **OperationalPC**: Information on the number of operational charging stations in different states.
 3. **Vehicle Class - All**: Data on the number of registrations for various vehicle classes.
