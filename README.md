@@ -31,9 +31,9 @@ The dataset used for this project includes:
 6. **Environmental Impact**: Due to insufficient data, an analysis of the environmental impact (such as reduction in emissions or fuel consumption) could not be performed.
 
 ## How to Access and Run
-1. **Kaggle Notebook**: The analysis is done in a Kaggle notebook, which can be accessed [here]([<link to your Kaggle notebook>](https://www.kaggle.com/code/kavyachippada/mini-hackathon2-0)).
+1. **Kaggle Notebook**: The analysis is done in a Kaggle notebook, which can be accessed [here](https://www.kaggle.com/code/kavyachippada/mini-hackathon2-0).
    
-2. **Power BI Visualization**: The visualizations created with Power BI can be accessed via [Power BI report link]([<link to your Power BI report>](https://app.powerbi.com/groups/me/reports/d5c24f16-a80c-4229-9ac7-aef928a0129f/2e0c4fad9804456584e7?experience=power-bi)) or downloaded from this repository.
+2. **Power BI Visualization**: The visualizations created with Power BI can be accessed via [Power BI report link](https://app.powerbi.com/groups/me/reports/d5c24f16-a80c-4229-9ac7-aef928a0129f/2e0c4fad9804456584e7?experience=power-bi) or downloaded from this repository.
 
 ## Insights and Findings
 - **EV Adoption Trends**: There has been a consistent growth in EV adoption, with certain regions in India leading in market share.
