@@ -1,4 +1,4 @@
-# README for HVA24: Mini Hackathon 2.0 - Electric Vehicle (EV) Market Analysis
+# HVA24: Mini Hackathon 2.0 - Electric Vehicle (EV) Market Analysis
 
 ## Project Overview
 This project was undertaken as part of the HVA24 Mini Hackathon 2.0. The aim is to explore India's electric vehicle (EV) market using a dataset from Kaggle. The analysis was carried out using a Kaggle notebook with Pandas for data processing and analysis. Power BI was used for visualizing key insights.
